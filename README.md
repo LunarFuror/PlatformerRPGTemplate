@@ -29,4 +29,6 @@ a little non-standard or hard to find when you jump in here that ultimately made
 7. Everything included is either hand made by me (tilesets mostly and the blob sprites) which are free to use creative commons, or are open source and their liscneses are included in this project.
 	a. I've started a credits script to help coordinate this, but cannot gurantee it's up to date for your game, you will need to ensure all proper crediting is done when you use this project.
 	b. I would like credit for the use of this project.
-8. Good luck, and enjoy!
+8. The fonts used in the project are included in "/fontsFiles" for you to install.
+
+Good luck, and enjoy!
