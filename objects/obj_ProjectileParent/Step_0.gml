@@ -1,0 +1,1 @@
+x += facingRight? horSpeedMax : horSpeedMax*-1;

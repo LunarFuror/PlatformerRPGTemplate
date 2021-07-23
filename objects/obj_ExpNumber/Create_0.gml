@@ -1,0 +1,1 @@
+liveTimer = 60;
