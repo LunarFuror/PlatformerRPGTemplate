@@ -11,7 +11,7 @@ Includes:
 * VERY rudimentary save system.
 * Character naming system.
 * Controlls, audio and gameplay settings. 
-   * Audio starts at 50% master because anyone who starts their game settings at full volume is a lunatic in my oppinion.
+   * Audio starts at 50% master because anyone who starts their game settings at full volume is a lunatic in my oppinion. /sarcasmButOnlyKindOf
 
 ## Technical Notes/Goals
 
